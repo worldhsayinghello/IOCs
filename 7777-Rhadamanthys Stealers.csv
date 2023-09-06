@@ -5,3 +5,7 @@ ip,185.229.66.68
 ip,185.4.66.166
 ip,10.0.0.5
 sha256,5103c57abd6c951bae2ab5c4fedf416c0bea32ed62596e2457122a23f71a496f
+md5,d712edf288a17273b51347eeac86c2b8
+sha1,3ea1b09657fbee13c357b0b14a32388f7ab99fcf
+url,https://api-cert.xdr.trendmicro.com
+domain,api-cert.xdr.trendmicro.com
